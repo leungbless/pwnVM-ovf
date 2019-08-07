@@ -12,6 +12,6 @@
 
 5.使用的是Ubandu16.04版本的。
 
-6.![Alt text](/path/to/img.jpg "Optional title")
+6.![是我本人，没有错](/pwnVM-ovf/gugugu.jpg "这是我在网上找的图片，如果侵权了请联系我，我会立马删除！！！")
 
 

@@ -4,7 +4,7 @@
 
 2.账号名是isidro 密码是：**toor** 
 </br>
-  root账号的密码也是__toor__
+  root账号的密码也是**toor**
 
 3.相关的安装指令我写到了word里面，虚拟机里面也有一个ReadMe.txt.
 

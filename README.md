@@ -12,6 +12,6 @@
 
 5.使用的是Ubandu16.04版本的。
 
-![是我本人，没有错](https://github.com/leungbless/pwnVM-ovf/blob/master/gugugu.jpg "这是我在网上找的图片，如果侵权了请联系我，我会立马删除！！！")
+本人帅照![是我本人，没有错](https://github.com/leungbless/pwnVM-ovf/blob/master/gugugu.jpg "这是我在网上找的图片，如果侵权了请联系我，我会立马删除！！！")
 
 

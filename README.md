@@ -12,4 +12,6 @@
 
 5.使用的是Ubandu16.04版本的。
 
+6.![Alt text](/path/to/img.jpg "Optional title")
+
 

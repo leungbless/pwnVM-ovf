@@ -8,8 +8,7 @@
 
 3.相关的安装指令我写到了word里面，虚拟机里面也有一个ReadMe.txt.
 
-4.网盘链接在这里：[点击这里下载](https://pan.baidu.com/s/1NiWodtja5Ia3dpvWANYIcg)
-**密码是：e29g**
+4.网盘链接在这里：[点击这里下载](https://pan.baidu.com/s/1NiWodtja5Ia3dpvWANYIcg)                    **密码是：e29g**
 
 5.使用的是Ubandu16.04版本的。
 

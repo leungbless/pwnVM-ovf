@@ -9,9 +9,7 @@
 3.相关的安装指令我写到了word里面，虚拟机里面也有一个ReadMe.txt.
 
 4.网盘链接在这里：[点击这里下载](https://pan.baidu.com/s/1NiWodtja5Ia3dpvWANYIcg)
-<table><tr><td bgcolor=#7FFFD4>这里的背景色是：Aquamarine，  十六进制颜色值：#7FFFD4， rgb(127, 255, 212)</td></tr></table>
-
-<font color=##bfe1f1 size=72>密码是：e29g</font><br/>
+**密码是：e29g**
 
 5.使用的是Ubandu16.04版本的。
 
